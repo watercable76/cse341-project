@@ -1,8 +1,9 @@
 # NodeJS_Template
 
-This application was originally a barebones template of [node-js-getting-started](https://github.com/heroku/node-js-getting-started) provided by Heroku. It has been revised to accomodate the needs of students taking the CSE341 course at BYU-Idaho. 
+This application was originally a barebones template of [node-js-getting-started](https://github.com/heroku/node-js-getting-started) provided by Heroku. It has been revised to accomodate the needs of students taking the CSE341 course at BYU-Idaho.
 
-Below are instructions provided by the original Heroku repository: 
+Below are instructions provided by the original Heroku repository:
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
@@ -23,6 +24,7 @@ $ heroku create
 $ git push heroku master
 $ heroku open
 ```
+
 or
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
